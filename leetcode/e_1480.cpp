@@ -6,7 +6,8 @@ URL: https://leetcode.com/problems/running-sum-of-1d-array/
 
 #include <vector>
 
-class Solution {
+class Solution
+{
 public:
     std::vector<int> runningSum(std::vector<int>& nums)
     {
