@@ -1,4 +1,4 @@
-# cp
+# competitive
 
 Competitive programming solutions.
 
