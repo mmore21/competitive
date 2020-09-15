@@ -4,7 +4,6 @@ Difficulty: Easy
 URL: https://leetcode.com/problems/number-of-good-pairs/
 */
 
-
 #include <vector>
 
 class Solution
