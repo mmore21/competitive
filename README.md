@@ -4,6 +4,7 @@ Competitive programming solutions.
 
 ## LeetCode
 
+* [1221 - Split a String in Balanced Strings (Easy)](./leetcode/e_1221.cpp)
 * [1389 - Create Target Array in the Given Order (Easy)](./leetcode/e_1389.cpp)
 * [1431 - Kids With the Greatest Number of Candies (Easy)](./leetcode/e_1431.cpp)
 * [1470 - Shuffle the Array (Easy)](./leetcode/e_1470.cpp)

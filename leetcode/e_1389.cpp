@@ -4,6 +4,8 @@ Difficulty: Easy
 URL: https://leetcode.com/problems/create-target-array-in-the-given-order/
 */
 
+#include <vector>
+
 class Solution
 {
 public:
