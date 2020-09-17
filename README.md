@@ -20,4 +20,4 @@ Competitive programming solutions.
 
 ### Medium
 
-* [1561 - Maximum Number of Coins You Can Get](./leetcode/m_1561.cpp)
+* [1561 - Maximum Number of Coins You Can Get (Medium)](./leetcode/m_1561.cpp)
