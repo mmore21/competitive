@@ -4,6 +4,8 @@ Competitive programming solutions.
 
 ## LeetCode
 
+### Easy
+
 * [1221 - Split a String in Balanced Strings (Easy)](./leetcode/e_1221.cpp)
 * [1309 - Decrypt String from Alphabet to Integer Mapping (Easy)](./leetcode/e_1309.cpp)
 * [1389 - Create Target Array in the Given Order (Easy)](./leetcode/e_1389.cpp)
@@ -15,3 +17,7 @@ Competitive programming solutions.
 * [1486 - XOR Operation in an Array (Easy)](./leetcode/e_1486.cpp)
 * [1512 - Number of Good Pairs (Easy)](./leetcode/e_1512.cpp)
 * [1528 - Shuffle String (Easy)](./leetcode/e_1528.cpp)
+
+### Medium
+
+* [1561 - Maximum Number of Coins You Can Get](./leetcode/m_1561.cpp)
