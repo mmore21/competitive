@@ -5,6 +5,7 @@ Competitive programming solutions.
 ## LeetCode
 
 * [1221 - Split a String in Balanced Strings (Easy)](./leetcode/e_1221.cpp)
+* [1309 - Decrypt String from Alphabet to Integer Mapping (Easy)](./leetcode/e_1309.cpp)
 * [1389 - Create Target Array in the Given Order (Easy)](./leetcode/e_1389.cpp)
 * [1431 - Kids With the Greatest Number of Candies (Easy)](./leetcode/e_1431.cpp)
 * [1450 - Number of Students Doing Homework at a Given Time (Easy)](./leetcode/e_1450.cpp)
