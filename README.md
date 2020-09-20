@@ -17,6 +17,7 @@ Competitive programming solutions.
 * [1470 - Shuffle the Array (Easy)](./leetcode/e_1470.cpp)
 * [1480 - Running Sum of 1d Array (Easy)](./leetcode/e_1480.cpp)
 * [1486 - XOR Operation in an Array (Easy)](./leetcode/e_1486.cpp)
+* [1502 - Can Make Arithmetic Progression From Sequence (Easy)](./leetcode/e_1502.cpp)
 * [1512 - Number of Good Pairs (Easy)](./leetcode/e_1512.cpp)
 * [1528 - Shuffle String (Easy)](./leetcode/e_1528.cpp)
 * [1588 - Sum of All Odd Length Subarrays (Easy)](./leetcode/e_1588.cpp)
