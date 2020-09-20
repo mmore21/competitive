@@ -1,5 +1,3 @@
-
-
 /*
 Problem: 455 - Assign Cookies
 Difficulty: Easy

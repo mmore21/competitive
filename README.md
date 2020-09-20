@@ -13,11 +13,13 @@ Competitive programming solutions.
 * [1431 - Kids With the Greatest Number of Candies (Easy)](./leetcode/e_1431.cpp)
 * [1436 - Destination City (Easy)](./leetcode/e_1436.cpp)
 * [1450 - Number of Students Doing Homework at a Given Time (Easy)](./leetcode/e_1450.cpp)
+* [1464 - Maximum Product of Two Elements in an Array (Easy)](./leetcode/e_1464.cpp)
 * [1470 - Shuffle the Array (Easy)](./leetcode/e_1470.cpp)
 * [1480 - Running Sum of 1d Array (Easy)](./leetcode/e_1480.cpp)
 * [1486 - XOR Operation in an Array (Easy)](./leetcode/e_1486.cpp)
 * [1512 - Number of Good Pairs (Easy)](./leetcode/e_1512.cpp)
 * [1528 - Shuffle String (Easy)](./leetcode/e_1528.cpp)
+* [1588 - Sum of All Odd Length Subarrays (Easy)](./leetcode/e_1588.cpp)
 
 ### Medium
 
