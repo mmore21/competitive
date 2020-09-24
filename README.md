@@ -7,6 +7,7 @@ Competitive programming solutions.
 ### Easy
 
 * [455 - Assign Cookies (Easy)](./leetcode/e_455.cpp)
+* [627 - Swap Salary (Easy)](./leetcode/e_627.sql)
 * [1221 - Split a String in Balanced Strings (Easy)](./leetcode/e_1221.cpp)
 * [1309 - Decrypt String from Alphabet to Integer Mapping (Easy)](./leetcode/e_1309.cpp)
 * [1389 - Create Target Array in the Given Order (Easy)](./leetcode/e_1389.cpp)
