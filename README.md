@@ -21,6 +21,7 @@ Competitive programming solutions.
 * [1502 - Can Make Arithmetic Progression From Sequence (Easy)](./leetcode/e_1502.cpp)
 * [1512 - Number of Good Pairs (Easy)](./leetcode/e_1512.cpp)
 * [1528 - Shuffle String (Easy)](./leetcode/e_1528.cpp)
+* [1550 - Three Consecutive Odds (Easy)](./leetcode/e_1550.cpp)
 * [1588 - Sum of All Odd Length Subarrays (Easy)](./leetcode/e_1588.cpp)
 
 ### Medium
