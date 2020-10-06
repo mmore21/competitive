@@ -17,6 +17,7 @@ Competitive programming solutions.
 * [1450 - Number of Students Doing Homework at a Given Time (Easy)](./leetcode/e_1450.cpp)
 * [1464 - Maximum Product of Two Elements in an Array (Easy)](./leetcode/e_1464.cpp)
 * [1470 - Shuffle the Array (Easy)](./leetcode/e_1470.cpp)
+* [1475 - Final Prices With a Special Discount in a Shop (Easy)](./leetcode/e_1475.cpp)
 * [1480 - Running Sum of 1d Array (Easy)](./leetcode/e_1480.cpp)
 * [1486 - XOR Operation in an Array (Easy)](./leetcode/e_1486.cpp)
 * [1502 - Can Make Arithmetic Progression From Sequence (Easy)](./leetcode/e_1502.cpp)
