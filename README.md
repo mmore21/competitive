@@ -28,5 +28,6 @@ Competitive programming solutions.
 
 ### Medium
 
+* [1347 - Minimum Number of Steps to Make Two Strings Anagram (Medium)](./leetcode/m_1347.cpp)
 * [1529 - Bulb Switcher IV (Medium)](./leetcode/m_1529.cpp)
 * [1561 - Maximum Number of Coins You Can Get (Medium)](./leetcode/m_1561.cpp)
