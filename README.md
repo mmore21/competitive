@@ -6,6 +6,7 @@ Competitive programming solutions.
 
 ### Easy
 
+* [121 - Best Time to Buy and Sell Stock](./leetcode/e_121.cpp)
 * [455 - Assign Cookies (Easy)](./leetcode/e_455.cpp)
 * [627 - Swap Salary (Easy)](./leetcode/e_627.sql)
 * [1221 - Split a String in Balanced Strings (Easy)](./leetcode/e_1221.cpp)
