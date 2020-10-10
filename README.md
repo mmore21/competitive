@@ -6,7 +6,8 @@ Competitive programming solutions.
 
 ### Easy
 
-* [121 - Best Time to Buy and Sell Stock](./leetcode/e_121.cpp)
+* [121 - Best Time to Buy and Sell Stock (Easy)](./leetcode/e_121.cpp)
+* [226 - Invert Binary Tree (Easy)](./leetcode/e_226.cpp)
 * [455 - Assign Cookies (Easy)](./leetcode/e_455.cpp)
 * [627 - Swap Salary (Easy)](./leetcode/e_627.sql)
 * [1221 - Split a String in Balanced Strings (Easy)](./leetcode/e_1221.cpp)
@@ -26,9 +27,11 @@ Competitive programming solutions.
 * [1528 - Shuffle String (Easy)](./leetcode/e_1528.cpp)
 * [1550 - Three Consecutive Odds (Easy)](./leetcode/e_1550.cpp)
 * [1588 - Sum of All Odd Length Subarrays (Easy)](./leetcode/e_1588.cpp)
+* [1603 - Design Parking System (Easy)](./leetcode/e_1603.py)
 
 ### Medium
 
 * [1347 - Minimum Number of Steps to Make Two Strings Anagram (Medium)](./leetcode/m_1347.cpp)
 * [1529 - Bulb Switcher IV (Medium)](./leetcode/m_1529.cpp)
 * [1561 - Maximum Number of Coins You Can Get (Medium)](./leetcode/m_1561.cpp)
+* [1604 - Alert Using Same Key-Card Three or More Times in a One Hour Period (Medium)](./leetcode/m_1604.py)
