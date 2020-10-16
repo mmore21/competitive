@@ -32,6 +32,7 @@ Competitive programming solutions.
 
 ### Medium
 
+* [146 - LRU Cache (Medium)](./leetcode/m_146.py)
 * [973 - K Closest Points to Origin (Medium)](./leetcode/m_973.cpp)
 * [1347 - Minimum Number of Steps to Make Two Strings Anagram (Medium)](./leetcode/m_1347.cpp)
 * [1387 - Sort Integers by The Power Value (Medium)](./leetcode/m_1387.py)
