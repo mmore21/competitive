@@ -34,6 +34,7 @@ Competitive programming solutions.
 
 * [146 - LRU Cache (Medium)](./leetcode/m_146.py)
 * [973 - K Closest Points to Origin (Medium)](./leetcode/m_973.cpp)
+* [1315 - Sum of Nodes with Even-Valued Grandparent (Medium)](./leetcode/m_1315.py)
 * [1347 - Minimum Number of Steps to Make Two Strings Anagram (Medium)](./leetcode/m_1347.cpp)
 * [1387 - Sort Integers by The Power Value (Medium)](./leetcode/m_1387.py)
 * [1529 - Bulb Switcher IV (Medium)](./leetcode/m_1529.cpp)
