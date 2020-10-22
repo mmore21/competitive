@@ -37,6 +37,7 @@ Competitive programming solutions.
 * [1315 - Sum of Nodes with Even-Valued Grandparent (Medium)](./leetcode/m_1315.py)
 * [1347 - Minimum Number of Steps to Make Two Strings Anagram (Medium)](./leetcode/m_1347.cpp)
 * [1387 - Sort Integers by The Power Value (Medium)](./leetcode/m_1387.py)
+* [1448 - Count Good Nodes in Binary Tree (Medium)](./leetcode/m_1448.py)
 * [1529 - Bulb Switcher IV (Medium)](./leetcode/m_1529.cpp)
 * [1561 - Maximum Number of Coins You Can Get (Medium)](./leetcode/m_1561.cpp)
 * [1604 - Alert Using Same Key-Card Three or More Times in a One Hour Period (Medium)](./leetcode/m_1604.py)
