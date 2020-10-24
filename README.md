@@ -27,6 +27,7 @@ Competitive programming solutions.
 * [1512 - Number of Good Pairs (Easy)](./leetcode/e_1512.cpp)
 * [1528 - Shuffle String (Easy)](./leetcode/e_1528.cpp)
 * [1550 - Three Consecutive Odds (Easy)](./leetcode/e_1550.cpp)
+* [1572 - Matrix Diagonal Sum (Easy)](./leetcode/e_1572.py)
 * [1588 - Sum of All Odd Length Subarrays (Easy)](./leetcode/e_1588.cpp)
 * [1603 - Design Parking System (Easy)](./leetcode/e_1603.py)
 
@@ -40,4 +41,5 @@ Competitive programming solutions.
 * [1448 - Count Good Nodes in Binary Tree (Medium)](./leetcode/m_1448.py)
 * [1529 - Bulb Switcher IV (Medium)](./leetcode/m_1529.cpp)
 * [1561 - Maximum Number of Coins You Can Get (Medium)](./leetcode/m_1561.cpp)
+* [1573 - Number of Ways to Split a String (Medium)](./leetcode/m_1573.py)
 * [1604 - Alert Using Same Key-Card Three or More Times in a One Hour Period (Medium)](./leetcode/m_1604.py)
