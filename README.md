@@ -8,6 +8,7 @@ Competitive programming solutions.
 
 * [20 - Valid Parentheses (Easy)](./leetcode/e_20.py)
 * [121 - Best Time to Buy and Sell Stock (Easy)](./leetcode/e_121.cpp)
+* [122 - Best Time to Buy and Sell Stock II (Easy)](./leetcode/e_122.cpp)
 * [226 - Invert Binary Tree (Easy)](./leetcode/e_226.cpp)
 * [374 - Guess Number Higher or Lower (Easy)](./leetcode/e_374.py)
 * [455 - Assign Cookies (Easy)](./leetcode/e_455.cpp)
@@ -32,6 +33,7 @@ Competitive programming solutions.
 * [1572 - Matrix Diagonal Sum (Easy)](./leetcode/e_1572.py)
 * [1588 - Sum of All Odd Length Subarrays (Easy)](./leetcode/e_1588.cpp)
 * [1603 - Design Parking System (Easy)](./leetcode/e_1603.py)
+* [1629 - Slowest Key (Easy)](./leetcode/e_1629.py)
 
 ### Medium
 
@@ -46,3 +48,4 @@ Competitive programming solutions.
 * [1561 - Maximum Number of Coins You Can Get (Medium)](./leetcode/m_1561.cpp)
 * [1573 - Number of Ways to Split a String (Medium)](./leetcode/m_1573.py)
 * [1604 - Alert Using Same Key-Card Three or More Times in a One Hour Period (Medium)](./leetcode/m_1604.py)
+* [1630 - Arithmetic Subarrays (Medium)](./leetcode/m_1630.py)
