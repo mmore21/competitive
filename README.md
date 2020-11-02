@@ -15,6 +15,7 @@ Competitive programming solutions.
 * [627 - Swap Salary (Easy)](./leetcode/e_627.sql)
 * [1221 - Split a String in Balanced Strings (Easy)](./leetcode/e_1221.cpp)
 * [1299 - Replace Elements with Greatest Element on Right Side (Easy)](./leetcode/e_1299.py)
+* [1304 - Find N Unique Integers Sum up to Zero (Easy)](./leetcode/e_1304.py)
 * [1309 - Decrypt String from Alphabet to Integer Mapping (Easy)](./leetcode/e_1309.cpp)
 * [1317 - Convert Integer to the Sum of Two No-Zero Integers (Easy)](./leetcode/e_1317.py)
 * [1351 - Count Negative Numbers in a Sorted Matrix (Easy)](./leetcode/e_1351.cpp)
