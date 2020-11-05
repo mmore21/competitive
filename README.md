@@ -13,6 +13,7 @@ Competitive programming solutions.
 * [374 - Guess Number Higher or Lower (Easy)](./leetcode/e_374.py)
 * [455 - Assign Cookies (Easy)](./leetcode/e_455.cpp)
 * [627 - Swap Salary (Easy)](./leetcode/e_627.sql)
+* [1002 - Find Common Characters (Easy)](./leetcode/e_1002.py)
 * [1221 - Split a String in Balanced Strings (Easy)](./leetcode/e_1221.cpp)
 * [1299 - Replace Elements with Greatest Element on Right Side (Easy)](./leetcode/e_1299.py)
 * [1304 - Find N Unique Integers Sum up to Zero (Easy)](./leetcode/e_1304.py)
