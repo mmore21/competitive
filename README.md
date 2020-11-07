@@ -9,6 +9,7 @@ Competitive programming solutions.
 * [20 - Valid Parentheses (Easy)](./leetcode/e_20.py)
 * [121 - Best Time to Buy and Sell Stock (Easy)](./leetcode/e_121.cpp)
 * [122 - Best Time to Buy and Sell Stock II (Easy)](./leetcode/e_122.cpp)
+* [136 - Single Number (Easy)](./leetcode/e_136.py)
 * [226 - Invert Binary Tree (Easy)](./leetcode/e_226.cpp)
 * [374 - Guess Number Higher or Lower (Easy)](./leetcode/e_374.py)
 * [455 - Assign Cookies (Easy)](./leetcode/e_455.cpp)
