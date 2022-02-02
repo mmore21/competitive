@@ -42,6 +42,7 @@ Competitive programming solutions.
 
 ### Medium
 
+* [2 - Add Two Numbers (Medium)](./leetcode/m_2.py)
 * [146 - LRU Cache (Medium)](./leetcode/m_146.py)
 * [973 - K Closest Points to Origin (Medium)](./leetcode/m_973.cpp)
 * [1315 - Sum of Nodes with Even-Valued Grandparent (Medium)](./leetcode/m_1315.py)
