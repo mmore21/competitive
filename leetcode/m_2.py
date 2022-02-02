@@ -20,11 +20,9 @@ class Solution:
         sum_ = str(n1 + n2)
         # print(sum_)
         
+        node = None
         for i in range(len(sum_)):
-            if i == 0:
-                node = ListNode(val=int(sum_[i]))
-            else:
-                node = ListNode(val=int(sum_[i]), next=node)
+            node = ListNode(val=int(sum_[i]), next=node)
         
         return node
 
