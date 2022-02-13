@@ -58,8 +58,8 @@ Competitive programming solutions.
 * [1573 - Number of Ways to Split a String (Medium)](./leetcode/m_1573.py)
 * [1604 - Alert Using Same Key-Card Three or More Times in a One Hour Period (Medium)](./leetcode/m_1604.py)
 * [1630 - Arithmetic Subarrays (Medium)](./leetcode/m_1630.py)
-* [2165 - Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/)
+* [2165 - Smallest Value of the Rearranged Number](./leetcode/m_2165.py)
 
 ### Hard
 
-* [295 - Find Median from Data Stream (Hard)](https://leetcode.com/problems/find-median-from-data-stream/)
+* [295 - Find Median from Data Stream (Hard)](./leetcode/h_295.py)
