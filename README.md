@@ -58,6 +58,7 @@ Competitive programming solutions.
 * [1573 - Number of Ways to Split a String (Medium)](./leetcode/m_1573.py)
 * [1604 - Alert Using Same Key-Card Three or More Times in a One Hour Period (Medium)](./leetcode/m_1604.py)
 * [1630 - Arithmetic Subarrays (Medium)](./leetcode/m_1630.py)
+* [2165 - Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/)
 
 ### Hard
 
