@@ -40,6 +40,7 @@ Competitive programming solutions.
 * [1588 - Sum of All Odd Length Subarrays (Easy)](./leetcode/e_1588.cpp)
 * [1603 - Design Parking System (Easy)](./leetcode/e_1603.py)
 * [1629 - Slowest Key (Easy)](./leetcode/e_1629.py)
+* [2154 - Keep Multiplying Found Values by Two (Easy)](./leetcode/e_2154.py)
 
 ### Medium
 
@@ -58,7 +59,8 @@ Competitive programming solutions.
 * [1573 - Number of Ways to Split a String (Medium)](./leetcode/m_1573.py)
 * [1604 - Alert Using Same Key-Card Three or More Times in a One Hour Period (Medium)](./leetcode/m_1604.py)
 * [1630 - Arithmetic Subarrays (Medium)](./leetcode/m_1630.py)
-* [2165 - Smallest Value of the Rearranged Number](./leetcode/m_2165.py)
+* [2149 - Rearrange Array Elements by Sign (Medium)](./leetcode/m_2149.py)
+* [2165 - Smallest Value of the Rearranged Number (Medium)](./leetcode/m_2165.py)
 
 ### Hard
 
