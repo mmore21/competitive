@@ -62,4 +62,5 @@ Competitive programming solutions.
 
 ### Hard
 
+* [23 - Merge k Sorted Lists (Hard)](./leetcode/h_23.py)
 * [295 - Find Median from Data Stream (Hard)](./leetcode/h_295.py)
