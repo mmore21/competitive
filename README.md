@@ -46,6 +46,7 @@ Competitive programming solutions.
 ### Medium
 
 * [2 - Add Two Numbers (Medium)](./leetcode/m_2.py)
+* [3 - Longest Substring Without Repeating Characters (Medium)](./leetcode/m_3.py)
 * [49 - Group Anagrams (Medium)](./leetcode/m_49.py)
 * [146 - LRU Cache (Medium)](./leetcode/m_146.py)
 * [260 - Single Number (Medium)](./leetcode/m_260.py)
