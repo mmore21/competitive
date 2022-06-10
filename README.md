@@ -14,6 +14,7 @@ Competitive programming solutions.
 * [258 - Add Digits (Easy)](./leetcode/e_258.py)
 * [374 - Guess Number Higher or Lower (Easy)](./leetcode/e_374.py)
 * [455 - Assign Cookies (Easy)](./leetcode/e_455.cpp)
+* [500 - Keyboard Row (Easy)](./leetcode/e_500.py)
 * [620 - Not Boring Movies (Easy)](./leetcode/e_620.sql)
 * [627 - Swap Salary (Easy)](./leetcode/e_627.sql)
 * [1002 - Find Common Characters (Easy)](./leetcode/e_1002.py)
