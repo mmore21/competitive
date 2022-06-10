@@ -68,3 +68,18 @@ Competitive programming solutions.
 
 * [23 - Merge k Sorted Lists (Hard)](./leetcode/h_23.py)
 * [295 - Find Median from Data Stream (Hard)](./leetcode/h_295.py)
+
+## Project Euler
+
+* [1 - Multiples of 3 and 5](./project_euler/pe_1.py)
+* [2 - Even Fibonacci Numbers](./project_euler/pe_2.py)
+* [3 - Largest Prime Factor](./project_euler/pe_3.py)
+* [4 - Largest Palindrome Product](./project_euler/pe_4.py)
+* [5 - Smallest Multiple](./project_euler/pe_5.py)
+* [6 - Sum Square Difference](./project_euler/pe_6.py)
+* [7 - 10001st Prime](./project_euler/pe_7.py)
+* [8 - Largest Product in a Series](./project_euler/pe_8.py)
+* [9 - Special Pythagorean Triplet](./project_euler/pe_9.py)
+* [10 - Summation of Primes](./project_euler/pe_10.py)
+* [92 - Square Digit Chains](./project_euler/pe_92.py)
+
